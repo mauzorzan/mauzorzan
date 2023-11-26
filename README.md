@@ -23,8 +23,10 @@ e-Commerce Testing Lead (Intern)e-Commerce Testing Lead (Intern) at HP
 
 🔗 Connect with me:
 
-LinkedIn
-Personal Website
+[LinkedIn](https://www.linkedin.com/in/mauricio-zorzan/)
+[Personal Website](https://mauzorzan.vercel.app/)
+
+
 🌱 As a perpetual learner, I thrive on challenges and finding creative solutions to difficult problems. Let's connect and collaborate!
 
 <!--
