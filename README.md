@@ -2,9 +2,9 @@
 
 🚀 Tech Stack:
 
-Front End: React.js | Next.js
-Back End: Python | Django
-Database: MongoDB
+Front End: React.js | Next.js\
+Back End: Python | Django\
+Database: MongoDB\
 Languages: JavaScript | C# | Java
 
 🎓 Education:
@@ -17,13 +17,13 @@ Check out my repositories
 
 📚 Experience:
 
-Front End Developer (Intern) at S2T Unlocking Cyberspace.
+Front End Developer (Intern) at S2T Unlocking Cyberspace.\
 
 e-Commerce Testing Lead (Intern)e-Commerce Testing Lead (Intern) at HP 
 
 🔗 Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/mauricio-zorzan/)
+[LinkedIn](https://www.linkedin.com/in/mauricio-zorzan/)\
 [Personal Website](https://mauzorzan.vercel.app/)
 
 
