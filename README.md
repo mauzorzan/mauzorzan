@@ -17,7 +17,7 @@ Check out my repositories
 
 📚 Experience:
 
-Front End Developer (Intern) at S2T Unlocking Cyberspace.\
+Front End Developer (Intern) at S2T Unlocking Cyberspace.
 
 e-Commerce Testing Lead (Intern)e-Commerce Testing Lead (Intern) at HP 
 
